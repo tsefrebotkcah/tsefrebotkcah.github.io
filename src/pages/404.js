@@ -11,4 +11,6 @@ const NotFoundPage = () => (
   </Layout>
 )
 
+//404 error page 
+
 export default NotFoundPage
